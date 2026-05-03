@@ -12,7 +12,7 @@
 #     return results_text
 
 
-from ddgs import DDGS
+from duckduckgo_search import DDGS
 
 def web_search(query):
     if not query:
