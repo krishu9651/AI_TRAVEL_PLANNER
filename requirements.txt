@@ -1,0 +1,6 @@
+google-generativeai
+python-dotenv
+duckduckgo-search
+fpdf
+geopy
+streamlit
